@@ -1,20 +1,15 @@
 ## YOUR PROJECT NAME
 
-A one-liner phrase describing this project or app
-
 Drive Nation is an online driver's license training school.
 
 ## About
 
-What is this project about. Ok to enrich here or the section above it with an image. 
 Concretely Drive Nation is a web / mobile application which offers the possibility of obtaining a driving license in a simple, secure manner, without moving around and at your own pace.  It offers tailor-made online training for the preparation of the road traffic test and driving lessons given by qualified road instructors to prepare for the practical test of the driving license.
 •We follow through our platform the evolution and the score of each candidate in order to make Africans responsible drivers.
 •We also offer a connection of the customer with the best driving school nearby thanks to a geolocation. 
 
 
 ## Why
-
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
 
 The solution addresses the following issues:
 • Driving license is the most common exam in Africa but it is clear that it is sometimes issued in a suspicious, corruptible and illegal manner.
@@ -26,13 +21,10 @@ The solution addresses the following issues:
  √ This solution is important insofar as it is part of the vision of registering Africa as a technological hub where the impossible has no limit with information and digital.
 
 ## Usage
- How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
-
+ 
 The solution being a web application the use would include the URL of the platform, the service, etc.
 
 ## Authors
-
-List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project.
 
 DRIVE NATION is the result of a passionate and enthusiastic team, who have worked hard to move the lines and develop an online training solution for driving licenses to support Africa in the fight against the evils that plague its society.  Demanding men and women, focused on finding the best legal, technical, technological and design options to design the best online driving school solution.
 
