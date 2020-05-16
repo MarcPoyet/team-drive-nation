@@ -1,0 +1,174 @@
+html, body{
+  font-size: 20px;
+}
+.body{
+  background-color: #5a0866;
+}
+.position-logo{
+  color: #5a0866;
+}
+
+.paragraphe-nom{
+  margin-left: 20%;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.titre-code-route{
+  background-color: #5a0866;
+  min-height: 60px;
+  color: #fff;
+  min-width: 100%;
+  font-size: 25px;
+}
+
+.btn-code-route{
+  background-color: #5a0866;
+  min-height: 60px;
+  color: #fff;
+  min-width: 30%;
+  font-size: 25px;
+  border-radius: 25px;
+  margin-top: 30px;
+  margin-left: 40%;
+
+}
+
+.caract-code-route{
+  background-color: #5a0866;
+  min-height: 60px;
+  color: #fff;
+  min-width: 100%;
+  font-size: 20px;
+  padding: 10px;
+}
+.paragraphe{
+  margin-top: 20px;
+}
+.espa{
+  margin-top: 10px;
+}
+
+.caracteristique{
+  text-decoration: underline;
+  margin: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #5a0866;
+  margin-top: 40px;
+}
+.footer{
+  background-color: #5a0866;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  min-height: 70px;
+  margin-top: 70px;
+
+}
+
+/* PAGE DE CONNEXION */
+
+.espace-pub{
+  background-color: #fff;
+  min-height: 300px;
+  box-shadow: 3px 3px black;
+  text-align: center;
+}
+
+.langue{
+  float: right;
+  color: #fff;
+}
+.con-paragraphe{
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+mark{
+  background-color: yellow;
+  color: black;
+  font-style: italic;
+  margin-top: -30px;
+}
+
+.text-connexion{
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.form-connexion{
+  background-color: #fff;
+  color: #000;
+  min-height: 300px;
+  border-radius: 5%;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.input-control{
+  margin: 20px;
+  border: 1px solid rgb(2, 23, 55);
+  border-radius: 20px;
+  font-size: 17px;
+  text-align: center;
+  padding: 10px;
+  width: 400px;
+  height: 50px;
+  margin-left: 45px;
+}
+
+.submit-control{
+  margin: 20px;
+  border: 1px solid rgb(2, 23, 55);
+  border-radius: 20px;
+  font-size: 17px;
+  text-align: center;
+  padding: 10px;
+  width: 120px;
+  background-color: #5a0866;
+  color: #fff;
+}
+
+.text-footer{
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+}
+
+/* LA PAGE FICHE */
+.code-route{
+  background-color: #f8a4d2;
+  min-height: 400px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.drapo{
+  margin: 30px;
+  margin-top: 50px;
+}
+
+.photo{
+  margin: 20px;
+}
+.titrefiche{
+  color: rgb(0, 68, 255);
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  margin: 20px;
+}
+li{
+  margin: 10px;
+}
+
+.btnn{
+  min-height: 30px;
+  min-width: 100px;
+  background-color: #f372b9;
+  border: none;
+}

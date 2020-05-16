@@ -1,0 +1,43 @@
+.check1{
+	background-color: #5a0688;
+	border-style: solid
+	border-top-left-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+.checka{
+	background-color: white;
+}
+
+.checkb{
+	background-color: #5a0688;
+}
+
+.check3{
+	background-color: white;
+	border-style: solid
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+.check32{
+	background-color: #5a0688;
+	border-style: solid
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+.checkc{
+	background-color: #e1dddd;
+	border-style: solid
+	border-top-left-radius: 20px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+
+}

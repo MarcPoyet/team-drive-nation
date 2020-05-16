@@ -1,0 +1,44 @@
+.drivelogo{
+	width: 140px;
+	height: 100px;
+	background-size: cover;
+	box-shadow: 0.20;
+}
+
+.up{
+	background-color: #5a0866;
+	color:white;
+}
+
+.this{
+	background-color: #5a0866;
+}
+
+.thisis{
+	background-color: #5a0866;
+	height: 49px;
+}
+
+.carou{
+	box-shadow: 5px 5px 10px black;
+	height: 700px;
+}
+
+.yes{
+	background-color: #5a0866;
+	color:white;
+}
+
+.new{
+	font-size: 20px;
+}
+
+.chan{
+	width: 350px;
+	height: 200px;
+}
+
+.net{
+	height: 50px;
+	width: 50px;
+}

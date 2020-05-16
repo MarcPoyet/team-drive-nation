@@ -1,0 +1,46 @@
+body{
+	background-color: #5a0866;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+
+}
+
+.drivelogo{
+	background: url('../img/drivenationlogo.png.png');
+	width: 100px;
+	height: 60px;
+	background-size: cover;
+	box-shadow: 0.20;
+}
+
+.fr{
+	width: 30px;
+	height: 20px;
+}
+
+.en{
+	width: 40px;
+	height: 20px;
+}
+
+.base{
+	background-color: #e1dddd;
+	border-style: solid
+	border-top-left-radius: 30px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+
+}
+
+.btncolor{
+	background-color: #5a0866;
+	color:white;
+}
+
+.secondrow{
+	color:white;
+}
+
